@@ -1,2 +1,2 @@
 # odin-recipes
-Small html recipe site
+This is my first project using HTML only, a small recipes website
