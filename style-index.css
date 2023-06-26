@@ -12,8 +12,8 @@ body {
 .image { 
     display: inline-block;
     width: 500px;
-    height: 600px;
-    margin-top: 60px;
+    height: 550px;
+    margin-top: 97px;
     margin-left: 20px;
     vertical-align: top;
 }
@@ -37,6 +37,8 @@ ul {
 }
 
 .sub-title { 
+    margin-top: 8px;
+    margin-bottom: 8px;
     color: grey;
 }
 
