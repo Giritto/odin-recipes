@@ -13,8 +13,8 @@ body {
     display: inline-block;
     width: 500px;
     height: 550px;
-    margin-top: 97px;
-    margin-left: 20px;
+    margin-top: 85px;
+    margin-left: 30px;
     vertical-align: top;
 }
 
@@ -55,9 +55,10 @@ p {
   }
 
   .content { 
-    padding: 20px;
+    padding: 10px;
     display: inline-block;
     width: 500px;
+    margin-left: 20px;
     text-align: center;
   }
   
